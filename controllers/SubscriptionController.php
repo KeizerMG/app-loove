@@ -12,7 +12,6 @@ class SubscriptionController extends Controller {
         $this->subscriptionModel = new Subscription();
         $this->userModel = new User();
         
-        // These pages require login
         if (in_array($_SERVER['REQUEST_METHOD'] . ' ' . $_SERVER['REQUEST_URI'], [
             'GET /premium',
             'POST /premium/subscribe',
@@ -24,7 +23,7 @@ class SubscriptionController extends Controller {
     }
     
     public function showPlans() {
-        // Get current user's subscription
+      
         $subscription = null;
         if (Auth::isLoggedIn()) {
             $userId = Auth::getCurrentUserId();
@@ -53,8 +52,7 @@ class SubscriptionController extends Controller {
             return;
         }
         
-        // Process payment (this would connect to a payment gateway in production)
-        // For demo purposes, we'll just create the subscription
+      
         $success = $this->subscriptionModel->create([
             'user_id' => $userId,
             'plan_type' => $planType,
@@ -64,7 +62,7 @@ class SubscriptionController extends Controller {
         ]);
         
         if ($success) {
-            // Log the successful subscription
+
             Logger::activity($userId, "Subscribed to $planType plan");
             
             $this->redirect('/premium?success=subscribed');
@@ -92,7 +90,7 @@ class SubscriptionController extends Controller {
         ]);
         
         if ($success) {
-            // Log the cancellation
+          
             Logger::activity($userId, "Cancelled {$subscription['plan_type']} subscription");
             
             $this->redirect('/premium?success=cancelled');
