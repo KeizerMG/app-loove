@@ -43,15 +43,14 @@ class UserMatch extends Model {
     }
     
     public function checkMutualMatch($user1Id, $user2Id) {
-        // Check if user2 has already liked user1
         $mutualLike = $this->db->fetch(
             "SELECT * FROM {$this->table} WHERE user_id = :user2Id AND matched_user_id = :user1Id AND status = 'like'",
             ['user1Id' => $user1Id, 'user2Id' => $user2Id]
         );
         
-        // If there's a mutual like, update both records to "match" status
+
         if ($mutualLike) {
-            // Update user1's like to match
+    
             $this->db->update(
                 $this->table,
                 ['status' => 'match'],
@@ -59,7 +58,7 @@ class UserMatch extends Model {
                 ['user1Id' => $user1Id, 'user2Id' => $user2Id]
             );
             
-            // Update user2's like to match
+           
             $this->db->update(
                 $this->table,
                 ['status' => 'match'],
