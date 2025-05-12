@@ -9,7 +9,6 @@
         </div>
     </div>
     <?php 
-        // Remove the message after displaying it once
         unset($_SESSION['success_message']);
     endif; 
     ?>
