@@ -13,8 +13,7 @@ class MessageController extends Controller {
         $this->userModel = new User();
         $this->matchModel = new UserMatch();
         $this->messageModel = new Message();
-        
-        // Check if user is logged in
+    
         if (!isset($_SESSION['user_id'])) {
             $this->redirect('/login?error=auth_required');
             exit;
@@ -24,7 +23,7 @@ class MessageController extends Controller {
     public function viewConversations() {
         $userId = $_SESSION['user_id'];
         
-        // Get all conversations
+       
         $conversations = $this->messageModel->getConversations($userId);
         
         $this->render('messages/conversations', [
@@ -42,7 +41,7 @@ class MessageController extends Controller {
             return;
         }
         
-        // Check if users are matched
+   
         $isMatched = $this->matchModel->checkIsMatched($userId, $otherUserId);
         
         if (!$isMatched) {
@@ -50,7 +49,7 @@ class MessageController extends Controller {
             return;
         }
         
-        // Get other user info
+     
         $otherUser = $this->userModel->getUserWithProfile($otherUserId);
         
         if (!$otherUser) {
@@ -58,10 +57,10 @@ class MessageController extends Controller {
             return;
         }
         
-        // Get messages
+      
         $messages = $this->messageModel->getMessages($userId, $otherUserId);
         
-        // Mark messages as read
+ 
         $this->messageModel->markAsRead($otherUserId, $userId);
         
         $this->render('messages/conversation', [
@@ -86,7 +85,7 @@ class MessageController extends Controller {
             return;
         }
         
-        // Check if users are matched
+    
         $isMatched = $this->matchModel->checkIsMatched($userId, $receiverId);
         
         if (!$isMatched) {
@@ -94,7 +93,7 @@ class MessageController extends Controller {
             return;
         }
         
-        // Send message
+       
         $sent = $this->messageModel->sendMessage($userId, $receiverId, $messageText);
         
         if (!$sent) {
@@ -102,7 +101,7 @@ class MessageController extends Controller {
             return;
         }
         
-        // Redirect back to conversation
+        
         $this->redirect('/messages/conversation?user_id=' . $receiverId);
     }
 }
