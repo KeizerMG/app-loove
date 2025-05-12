@@ -170,7 +170,7 @@
 </style>
 
 <?php
-// Helper function for the view to format message times
+
 function formatMessageTime($timestamp) {
     $now = new DateTime();
     $msgTime = new DateTime($timestamp);
@@ -183,11 +183,11 @@ function formatMessageTime($timestamp) {
             return 'Yesterday';
         }
         if ($diff->d < 7) {
-            return $msgTime->format('l'); // Day name
+            return $msgTime->format('l');
         }
-        return $msgTime->format('M j'); // Month, day
+        return $msgTime->format('M j'); 
     } else {
-        return $msgTime->format('g:i A'); // Time
+        return $msgTime->format('g:i A'); 
     }
 }
 ?>
