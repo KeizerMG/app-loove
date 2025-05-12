@@ -7,7 +7,7 @@ class Message extends Model {
     public function __construct() {
         parent::__construct();
         
-        // Create messages table if it doesn't exist
+        
         $this->createMessagesTableIfNotExists();
     }
     
