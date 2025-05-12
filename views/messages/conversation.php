@@ -60,9 +60,9 @@
             </div>
         </div>
         
-        <!-- Chat main area -->
+ 
         <div class="chat-main">
-            <!-- Messages display area -->
+     
             <div class="chat-messages" id="chat-messages">
                 <?php if(empty($messages)): ?>
                     <div class="no-messages-placeholder">
@@ -73,7 +73,7 @@
                     <?php 
                     $prevDate = null;
                     foreach($messages as $message): 
-                        // Show date separator if needed
+                      
                         $msgDate = date("Y-m-d", strtotime($message['created_at']));
                         $displayDate = date("F j, Y", strtotime($message['created_at']));
                         
