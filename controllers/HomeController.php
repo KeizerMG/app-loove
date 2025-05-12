@@ -3,7 +3,7 @@ require_once 'controllers/Controller.php';
 
 class HomeController extends Controller {
     public function index() {
-        // Get some featured profiles or system stats for the homepage
+       
         $this->render('home/index', [
             'title' => 'Welcome to Loove',
             'pageDescription' => 'Find your perfect match with Loove'
