@@ -15,7 +15,6 @@
     <?php endif; ?>
     
     <?php if(isset($_GET['match']) && $_GET['match'] == 1): ?>
-        <!-- Match Animation -->
         <div class="match-notification bg-gradient-primary text-white p-6 rounded-lg mb-6 text-center">
             <h2 class="text-2xl font-bold mb-2">It's a Match! 🎉</h2>
             <p>You both liked each other!</p>
@@ -36,17 +35,15 @@
         <div class="discover-container">
             <div class="discover-stack" id="discover-stack">
                 <?php 
-                // Display up to 5 profiles in stack
                 $displayCount = min(count($potentialMatches), 5);
                 for ($i = 0; $i < $displayCount; $i++): 
                     $profile = $potentialMatches[$i];
                 ?>
                     <div class="discover-card" data-user-id="<?= $profile['id'] ?>">
-                        <!-- Decision overlays -->
                         <div class="discover-overlay like">Like</div>
                         <div class="discover-overlay pass">Pass</div>
                         
-                        <!-- Profile images -->
+                
                         <div class="discover-images">
                             <?php if(!empty($profile['profile_picture'])): ?>
                                 <img src="<?= APP_URL . '/' . $profile['profile_picture'] ?>" alt="Profile" class="discover-main-image">
@@ -57,7 +54,7 @@
                             <?php endif; ?>
                         </div>
                         
-                        <!-- Profile info -->
+                      
                         <div class="discover-info">
                             <div class="flex justify-between items-center mb-2">
                                 <h2 class="text-2xl font-bold">
@@ -94,8 +91,7 @@
                     </div>
                 <?php endfor; ?>
             </div>
-            
-            <!-- Action buttons -->
+        
             <div class="discover-actions">
                 <button class="discover-action-btn pass" id="pass-btn">
                     <i class="fas fa-times"></i>
@@ -109,7 +105,7 @@
             </div>
         </div>
         
-        <!-- Hidden forms for actions -->
+       
         <form id="pass-form" action="<?= APP_URL ?>/match/pass" method="POST" class="hidden">
             <input type="hidden" name="user_id" id="pass-user-id" value="">
         </form>
@@ -139,7 +135,7 @@
 document.addEventListener('DOMContentLoaded', function() {
     console.log("Discover page loaded");
     
-    // Get required elements
+  
     const stack = document.getElementById('discover-stack');
     if (!stack) return;
     
@@ -153,22 +149,22 @@ document.addEventListener('DOMContentLoaded', function() {
     const passForm = document.getElementById('pass-form');
     const likeForm = document.getElementById('like-form');
     
-    // Set up state variables
+    
     let currentCardIndex = 0;
     let currentCard = cards[currentCardIndex];
     
     let isDragging = false;
     let startX, startY, currentX, currentY;
     
-    // Initialize card positions
+  
     initializeCards();
     
-    // Add event listeners to all cards
+   
     cards.forEach(card => {
-        // Mouse events
+   
         card.addEventListener('mousedown', handleDragStart);
         
-        // Touch events
+      
         card.addEventListener('touchstart', handleDragStart, { passive: false });
     });
     
@@ -177,14 +173,14 @@ document.addEventListener('DOMContentLoaded', function() {
     document.addEventListener('touchmove', handleDrag, { passive: false });
     document.addEventListener('touchend', handleDragEnd);
     
-    // Add click event listeners to buttons
+    
     if (passBtn) passBtn.addEventListener('click', () => swipeCard('left'));
     if (likeBtn) likeBtn.addEventListener('click', () => swipeCard('right'));
     if (superlikeBtn) superlikeBtn.addEventListener('click', () => swipeCard('up'));
     
     function initializeCards() {
         cards.forEach((card, index) => {
-            // Apply initial styles based on position in stack
+        
             if (index === currentCardIndex) {
                 card.style.zIndex = '5';
                 card.style.transform = '';
@@ -206,13 +202,13 @@ document.addEventListener('DOMContentLoaded', function() {
     }
     
     function handleDragStart(e) {
-        // Only allow dragging the top card
+    
         if (cards[currentCardIndex] !== this) return;
         
         isDragging = true;
         this.classList.add('dragging');
         
-        // Get start position
+      
         if (e.type === 'touchstart') {
             startX = e.touches[0].clientX;
             startY = e.touches[0].clientY;
@@ -227,7 +223,7 @@ document.addEventListener('DOMContentLoaded', function() {
     function handleDrag(e) {
         if (!isDragging) return;
         
-        // Get current position
+      
         if (e.type === 'touchmove') {
             currentX = e.touches[0].clientX;
             currentY = e.touches[0].clientY;
@@ -236,15 +232,15 @@ document.addEventListener('DOMContentLoaded', function() {
             currentY = e.clientY;
         }
         
-        // Calculate distance moved
+      
         const deltaX = currentX - startX;
         const deltaY = currentY - startY;
         
-        // Apply transform to card
+      
         const card = cards[currentCardIndex];
         card.style.transform = `translate(${deltaX}px, ${deltaY}px) rotate(${deltaX * 0.1}deg)`;
         
-        // Show decision overlays
+     
         if (deltaX > 50) {
             card.classList.add('swiping-right');
             card.classList.remove('swiping-left');
@@ -265,7 +261,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const card = cards[currentCardIndex];
         card.classList.remove('dragging');
         
-        // Get final position
+    
         let endX;
         if (e.type === 'touchend') {
             endX = e.changedTouches[0].clientX;
@@ -275,13 +271,12 @@ document.addEventListener('DOMContentLoaded', function() {
         
         const deltaX = endX - startX;
         
-        // Determine swipe direction
         if (deltaX > 100) {
             swipeCard('right');
         } else if (deltaX < -100) {
             swipeCard('left');
         } else {
-            // Reset card position
+          
             card.style.transform = '';
             card.classList.remove('swiping-left', 'swiping-right');
         }
@@ -293,7 +288,7 @@ document.addEventListener('DOMContentLoaded', function() {
         
         const userId = card.getAttribute('data-user-id');
         
-        // Add swipe animation
+       
         if (direction === 'left') {
             card.classList.add('swiped-left');
             passForm.querySelector('#pass-user-id').value = userId;
@@ -304,12 +299,12 @@ document.addEventListener('DOMContentLoaded', function() {
             setTimeout(() => likeForm.submit(), 300);
         } else if (direction === 'up') {
             card.classList.add('swiped-up');
-            // Super like would submit to a different form in a real app
+        
             likeForm.querySelector('#like-user-id').value = userId;
             setTimeout(() => likeForm.submit(), 300);
         }
         
-        // Move to next card after animation
+        
         setTimeout(() => {
             currentCardIndex++;
             if (currentCardIndex < cards.length) {
