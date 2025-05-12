@@ -7,7 +7,7 @@ class UserMatch extends Model {
     public function __construct() {
         parent::__construct();
         
-        // Create matches table if it doesn't exist
+       
         $this->createMatchesTableIfNotExists();
     }
     
