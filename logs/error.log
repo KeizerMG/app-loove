@@ -1,0 +1,686 @@
+[28-May-2025 07:30:53 UTC] PHP Warning:  require_once(../app/controllers/Pages.php): Failed to open stream: No such file or directory in C:\wampp\www\Loove4\app\libs\Router.php on line 19
+[28-May-2025 07:30:53 UTC] PHP Stack trace:
+[28-May-2025 07:30:53 UTC] PHP   1. {main}() C:\wampp\www\Loove4\public\index.php:0
+[28-May-2025 07:30:53 UTC] PHP   2. Router->__construct() C:\wampp\www\Loove4\public\index.php:5
+[28-May-2025 07:30:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../app/controllers/Pages.php' (include_path='.;C:\php\pear') in C:\wampp\www\Loove4\app\libs\Router.php:19
+Stack trace:
+#0 C:\wampp\www\Loove4\public\index.php(5): Router->__construct()
+#1 {main}
+  thrown in C:\wampp\www\Loove4\app\libs\Router.php on line 19
+[28-May-2025 07:30:55 UTC] PHP Warning:  require_once(../app/controllers/Pages.php): Failed to open stream: No such file or directory in C:\wampp\www\Loove4\app\libs\Router.php on line 19
+[28-May-2025 07:30:55 UTC] PHP Stack trace:
+[28-May-2025 07:30:55 UTC] PHP   1. {main}() C:\wampp\www\Loove4\public\index.php:0
+[28-May-2025 07:30:55 UTC] PHP   2. Router->__construct() C:\wampp\www\Loove4\public\index.php:5
+[28-May-2025 07:30:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../app/controllers/Pages.php' (include_path='.;C:\php\pear') in C:\wampp\www\Loove4\app\libs\Router.php:19
+Stack trace:
+#0 C:\wampp\www\Loove4\public\index.php(5): Router->__construct()
+#1 {main}
+  thrown in C:\wampp\www\Loove4\app\libs\Router.php on line 19
+[28-May-2025 07:30:58 UTC] PHP Warning:  require_once(../app/controllers/Pages.php): Failed to open stream: No such file or directory in C:\wampp\www\Loove4\app\libs\Router.php on line 19
+[28-May-2025 07:30:58 UTC] PHP Stack trace:
+[28-May-2025 07:30:58 UTC] PHP   1. {main}() C:\wampp\www\Loove4\public\index.php:0
+[28-May-2025 07:30:58 UTC] PHP   2. Router->__construct() C:\wampp\www\Loove4\public\index.php:5
+[28-May-2025 07:30:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../app/controllers/Pages.php' (include_path='.;C:\php\pear') in C:\wampp\www\Loove4\app\libs\Router.php:19
+Stack trace:
+#0 C:\wampp\www\Loove4\public\index.php(5): Router->__construct()
+#1 {main}
+  thrown in C:\wampp\www\Loove4\app\libs\Router.php on line 19
+[28-May-2025 07:30:59 UTC] PHP Warning:  require_once(../app/controllers/Pages.php): Failed to open stream: No such file or directory in C:\wampp\www\Loove4\app\libs\Router.php on line 19
+[28-May-2025 07:30:59 UTC] PHP Stack trace:
+[28-May-2025 07:30:59 UTC] PHP   1. {main}() C:\wampp\www\Loove4\public\index.php:0
+[28-May-2025 07:30:59 UTC] PHP   2. Router->__construct() C:\wampp\www\Loove4\public\index.php:5
+[28-May-2025 07:30:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../app/controllers/Pages.php' (include_path='.;C:\php\pear') in C:\wampp\www\Loove4\app\libs\Router.php:19
+Stack trace:
+#0 C:\wampp\www\Loove4\public\index.php(5): Router->__construct()
+#1 {main}
+  thrown in C:\wampp\www\Loove4\app\libs\Router.php on line 19
+[28-May-2025 07:30:59 UTC] PHP Warning:  require_once(../app/controllers/Pages.php): Failed to open stream: No such file or directory in C:\wampp\www\Loove4\app\libs\Router.php on line 19
+[28-May-2025 07:30:59 UTC] PHP Stack trace:
+[28-May-2025 07:30:59 UTC] PHP   1. {main}() C:\wampp\www\Loove4\public\index.php:0
+[28-May-2025 07:30:59 UTC] PHP   2. Router->__construct() C:\wampp\www\Loove4\public\index.php:5
+[28-May-2025 07:30:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../app/controllers/Pages.php' (include_path='.;C:\php\pear') in C:\wampp\www\Loove4\app\libs\Router.php:19
+Stack trace:
+#0 C:\wampp\www\Loove4\public\index.php(5): Router->__construct()
+#1 {main}
+  thrown in C:\wampp\www\Loove4\app\libs\Router.php on line 19
+[28-May-2025 07:30:59 UTC] PHP Warning:  require_once(../app/controllers/Pages.php): Failed to open stream: No such file or directory in C:\wampp\www\Loove4\app\libs\Router.php on line 19
+[28-May-2025 07:30:59 UTC] PHP Stack trace:
+[28-May-2025 07:30:59 UTC] PHP   1. {main}() C:\wampp\www\Loove4\public\index.php:0
+[28-May-2025 07:30:59 UTC] PHP   2. Router->__construct() C:\wampp\www\Loove4\public\index.php:5
+[28-May-2025 07:30:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../app/controllers/Pages.php' (include_path='.;C:\php\pear') in C:\wampp\www\Loove4\app\libs\Router.php:19
+Stack trace:
+#0 C:\wampp\www\Loove4\public\index.php(5): Router->__construct()
+#1 {main}
+  thrown in C:\wampp\www\Loove4\app\libs\Router.php on line 19
+[28-May-2025 07:31:00 UTC] PHP Warning:  require_once(../app/controllers/Pages.php): Failed to open stream: No such file or directory in C:\wampp\www\Loove4\app\libs\Router.php on line 19
+[28-May-2025 07:31:00 UTC] PHP Stack trace:
+[28-May-2025 07:31:00 UTC] PHP   1. {main}() C:\wampp\www\Loove4\public\index.php:0
+[28-May-2025 07:31:00 UTC] PHP   2. Router->__construct() C:\wampp\www\Loove4\public\index.php:5
+[28-May-2025 07:31:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../app/controllers/Pages.php' (include_path='.;C:\php\pear') in C:\wampp\www\Loove4\app\libs\Router.php:19
+Stack trace:
+#0 C:\wampp\www\Loove4\public\index.php(5): Router->__construct()
+#1 {main}
+  thrown in C:\wampp\www\Loove4\app\libs\Router.php on line 19
+[28-May-2025 07:33:43 UTC] PHP Fatal error:  Cannot redeclare redirect() (previously declared in C:\wampp\www\Loove4\app\helpers\session_helper.php:38) in C:\wampp\www\Loove4\app\helpers\url_helper.php on line 3
+[28-May-2025 07:33:43 UTC] PHP Stack trace:
+[28-May-2025 07:33:43 UTC] PHP   1. {main}() C:\wampp\www\Loove4\public\index.php:0
+[28-May-2025 07:33:43 UTC] PHP   2. require_once() C:\wampp\www\Loove4\public\index.php:2
+2025-05-28 07:42:09 [ERROR] Undefined array key "user_name" in C:\wampp\www\Loove4\app\views\includes\navbar.php on line 23
+2025-05-28 07:42:09 [ERROR] Undefined array key "description" in C:\wampp\www\Loove4\app\views\pages\index.php on line 5
+2025-05-28 07:42:13 [ERROR] Undefined array key "user_name" in C:\wampp\www\Loove4\app\views\includes\navbar.php on line 23
+2025-05-28 07:42:13 [ERROR] Undefined array key "description" in C:\wampp\www\Loove4\app\views\pages\index.php on line 5
+2025-05-28 07:42:14 [ERROR] Undefined array key "user_name" in C:\wampp\www\Loove4\app\views\includes\navbar.php on line 23
+2025-05-28 07:42:14 [ERROR] Undefined array key "description" in C:\wampp\www\Loove4\app\views\pages\index.php on line 5
+2025-05-28 07:47:18 [ERROR] Undefined array key "user_name" in C:\wampp\www\Loove4\app\views\includes\navbar.php on line 49
+2025-05-28 07:47:18 [ERROR] Undefined array key "user_name" in C:\wampp\www\Loove4\app\views\pages\index.php on line 134
+2025-05-28 07:47:18 [ERROR] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\wampp\www\Loove4\app\views\pages\index.php on line 134
+2025-05-28 07:47:20 [ERROR] Undefined array key "user_name" in C:\wampp\www\Loove4\app\views\includes\navbar.php on line 49
+2025-05-28 07:47:20 [ERROR] Undefined array key "user_name" in C:\wampp\www\Loove4\app\views\pages\index.php on line 134
+2025-05-28 07:47:20 [ERROR] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\wampp\www\Loove4\app\views\pages\index.php on line 134
+2025-05-28 07:47:20 [ERROR] Undefined array key "user_name" in C:\wampp\www\Loove4\app\views\includes\navbar.php on line 49
+2025-05-28 07:47:20 [ERROR] Undefined array key "user_name" in C:\wampp\www\Loove4\app\views\pages\index.php on line 134
+2025-05-28 07:47:20 [ERROR] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\wampp\www\Loove4\app\views\pages\index.php on line 134
+2025-05-28 07:52:06 [ERROR] Undefined array key "user_name" in C:\wampp\www\Loove4\app\views\pages\index.php on line 134
+2025-05-28 07:52:06 [ERROR] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\wampp\www\Loove4\app\views\pages\index.php on line 134
+2025-05-28 07:52:07 [ERROR] Undefined array key "user_name" in C:\wampp\www\Loove4\app\views\pages\index.php on line 134
+2025-05-28 07:52:07 [ERROR] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\wampp\www\Loove4\app\views\pages\index.php on line 134
+2025-05-28 07:52:09 [ERROR] Undefined array key "user_name" in C:\wampp\www\Loove4\app\views\pages\index.php on line 134
+2025-05-28 07:52:09 [ERROR] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\wampp\www\Loove4\app\views\pages\index.php on line 134
+2025-05-28 07:52:09 [ERROR] Undefined array key "user_name" in C:\wampp\www\Loove4\app\views\pages\index.php on line 134
+2025-05-28 07:52:09 [ERROR] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\wampp\www\Loove4\app\views\pages\index.php on line 134
+2025-05-28 07:54:32 [ERROR] Undefined array key "user_name" in C:\wampp\www\Loove4\app\views\pages\index.php on line 41
+2025-05-28 07:54:32 [ERROR] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\wampp\www\Loove4\app\views\pages\index.php on line 41
+2025-05-28 07:54:32 [ERROR] Undefined array key "user_name" in C:\wampp\www\Loove4\app\views\pages\index.php on line 41
+2025-05-28 07:54:32 [ERROR] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\wampp\www\Loove4\app\views\pages\index.php on line 41
+2025-05-28 07:54:37 [ERROR] Undefined array key "url" in C:\wampp\www\Loove4\app\views\includes\navbar.php on line 13
+2025-05-28 07:54:37 [ERROR] Undefined array key "url" in C:\wampp\www\Loove4\app\views\includes\navbar.php on line 13
+2025-05-28 07:54:37 [ERROR] Undefined array key "url" in C:\wampp\www\Loove4\app\views\includes\navbar.php on line 17
+2025-05-28 07:54:37 [ERROR] Undefined array key "url" in C:\wampp\www\Loove4\app\views\includes\navbar.php on line 20
+2025-05-28 07:54:37 [ERROR] Undefined array key "user_name" in C:\wampp\www\Loove4\app\views\pages\index.php on line 41
+2025-05-28 07:54:37 [ERROR] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\wampp\www\Loove4\app\views\pages\index.php on line 41
+2025-05-28 07:54:37 [ERROR] Undefined array key "user_name" in C:\wampp\www\Loove4\app\views\pages\index.php on line 41
+2025-05-28 07:54:37 [ERROR] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\wampp\www\Loove4\app\views\pages\index.php on line 41
+2025-05-28 07:54:39 [ERROR] Undefined array key "url" in C:\wampp\www\Loove4\app\views\includes\navbar.php on line 13
+2025-05-28 07:54:39 [ERROR] Undefined array key "url" in C:\wampp\www\Loove4\app\views\includes\navbar.php on line 13
+2025-05-28 07:54:39 [ERROR] Undefined array key "url" in C:\wampp\www\Loove4\app\views\includes\navbar.php on line 17
+2025-05-28 07:54:39 [ERROR] Undefined array key "url" in C:\wampp\www\Loove4\app\views\includes\navbar.php on line 20
+2025-05-28 07:54:39 [ERROR] Undefined array key "user_name" in C:\wampp\www\Loove4\app\views\pages\index.php on line 41
+2025-05-28 07:54:39 [ERROR] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\wampp\www\Loove4\app\views\pages\index.php on line 41
+2025-05-28 07:54:39 [ERROR] Undefined array key "user_name" in C:\wampp\www\Loove4\app\views\pages\index.php on line 41
+2025-05-28 07:54:39 [ERROR] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\wampp\www\Loove4\app\views\pages\index.php on line 41
+2025-05-28 07:54:40 [ERROR] Undefined array key "url" in C:\wampp\www\Loove4\app\views\includes\navbar.php on line 13
+2025-05-28 07:54:40 [ERROR] Undefined array key "url" in C:\wampp\www\Loove4\app\views\includes\navbar.php on line 13
+2025-05-28 07:54:40 [ERROR] Undefined array key "url" in C:\wampp\www\Loove4\app\views\includes\navbar.php on line 17
+2025-05-28 07:54:40 [ERROR] Undefined array key "url" in C:\wampp\www\Loove4\app\views\includes\navbar.php on line 20
+2025-05-28 07:54:40 [ERROR] Undefined array key "user_name" in C:\wampp\www\Loove4\app\views\pages\index.php on line 41
+2025-05-28 07:54:40 [ERROR] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\wampp\www\Loove4\app\views\pages\index.php on line 41
+2025-05-28 07:54:40 [ERROR] Undefined array key "user_name" in C:\wampp\www\Loove4\app\views\pages\index.php on line 41
+2025-05-28 07:54:40 [ERROR] explode(): Passing null to parameter #2 ($string) of type string is deprecated in C:\wampp\www\Loove4\app\views\pages\index.php on line 41
+2025-05-28 08:03:54 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 15
+2025-05-28 08:04:09 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 137
+2025-05-28 08:06:42 [ERROR] Creation of dynamic property Profiles::$profileModel is deprecated in C:\wampp\www\Loove4\app\controllers\Profiles.php on line 7
+2025-05-28 08:06:42 [ERROR] Creation of dynamic property Profiles::$userModel is deprecated in C:\wampp\www\Loove4\app\controllers\Profiles.php on line 8
+2025-05-28 08:14:43 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Profiles.php on line 30
+2025-05-28 08:14:54 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Profiles.php on line 30
+2025-05-28 08:25:04 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 137
+2025-05-28 09:41:36 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 137
+2025-05-28 09:43:01 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 137
+[28-May-2025 09:44:35 UTC] Erreur d'exécution SQL: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'loove_db.matches' n'existe pas
+[28-May-2025 09:44:36 UTC] Erreur d'exécution SQL: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'loove_db.user_interactions' n'existe pas
+[28-May-2025 09:44:37 UTC] Erreur d'exécution SQL: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'loove_db.matches' n'existe pas
+[28-May-2025 09:44:39 UTC] Erreur d'exécution SQL: SQLSTATE[42S02]: Base table or view not found: 1146 La table 'loove_db.user_interactions' n'existe pas
+2025-05-28 09:59:08 [ERROR] require_once(libs/Message.php) [<a href='0function.require-once0'>function.require-once0</a>]: Failed to open stream: No such file or directory in C:\wampp\www\Loove4\app\bootstrap.php on line 11
+[28-May-2025 09:59:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'libs/Message.php' (include_path='.;C:\php\pear') in C:\wampp\www\Loove4\app\bootstrap.php:11
+Stack trace:
+#0 C:\wampp\www\Loove4\app\views\includes\navbar.php(43): {closure}('Message')
+#1 C:\wampp\www\Loove4\app\views\includes\header.php(23): require('C:\\wampp\\www\\Lo...')
+#2 C:\wampp\www\Loove4\app\views\pages\index.php(1): require('C:\\wampp\\www\\Lo...')
+#3 C:\wampp\www\Loove4\app\libs\Controller.php(15): require_once('C:\\wampp\\www\\Lo...')
+#4 C:\wampp\www\Loove4\app\controllers\Pages.php(23): Controller->view('pages/index', Array)
+#5 C:\wampp\www\Loove4\app\libs\Router.php(38): Pages->index('img', 'favicon.png')
+#6 C:\wampp\www\Loove4\public\index.php(5): Router->__construct()
+#7 {main}
+  thrown in C:\wampp\www\Loove4\app\bootstrap.php on line 11
+2025-05-28 09:59:10 [ERROR] require_once(libs/Message.php) [<a href='0function.require-once0'>function.require-once0</a>]: Failed to open stream: No such file or directory in C:\wampp\www\Loove4\app\bootstrap.php on line 11
+[28-May-2025 09:59:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'libs/Message.php' (include_path='.;C:\php\pear') in C:\wampp\www\Loove4\app\bootstrap.php:11
+Stack trace:
+#0 C:\wampp\www\Loove4\app\views\includes\navbar.php(43): {closure}('Message')
+#1 C:\wampp\www\Loove4\app\views\includes\header.php(23): require('C:\\wampp\\www\\Lo...')
+#2 C:\wampp\www\Loove4\app\views\discover\index.php(1): require('C:\\wampp\\www\\Lo...')
+#3 C:\wampp\www\Loove4\app\libs\Controller.php(15): require_once('C:\\wampp\\www\\Lo...')
+#4 C:\wampp\www\Loove4\app\controllers\Discover.php(24): Controller->view('discover/index', Array)
+#5 C:\wampp\www\Loove4\app\libs\Router.php(38): Discover->index()
+#6 C:\wampp\www\Loove4\public\index.php(5): Router->__construct()
+#7 {main}
+  thrown in C:\wampp\www\Loove4\app\bootstrap.php on line 11
+2025-05-28 09:59:10 [ERROR] require_once(libs/Message.php) [<a href='0function.require-once0'>function.require-once0</a>]: Failed to open stream: No such file or directory in C:\wampp\www\Loove4\app\bootstrap.php on line 11
+[28-May-2025 09:59:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'libs/Message.php' (include_path='.;C:\php\pear') in C:\wampp\www\Loove4\app\bootstrap.php:11
+Stack trace:
+#0 C:\wampp\www\Loove4\app\views\includes\navbar.php(43): {closure}('Message')
+#1 C:\wampp\www\Loove4\app\views\includes\header.php(23): require('C:\\wampp\\www\\Lo...')
+#2 C:\wampp\www\Loove4\app\views\pages\index.php(1): require('C:\\wampp\\www\\Lo...')
+#3 C:\wampp\www\Loove4\app\libs\Controller.php(15): require_once('C:\\wampp\\www\\Lo...')
+#4 C:\wampp\www\Loove4\app\controllers\Pages.php(23): Controller->view('pages/index', Array)
+#5 C:\wampp\www\Loove4\app\libs\Router.php(38): Pages->index('img', 'favicon.png')
+#6 C:\wampp\www\Loove4\public\index.php(5): Router->__construct()
+#7 {main}
+  thrown in C:\wampp\www\Loove4\app\bootstrap.php on line 11
+2025-05-28 09:59:14 [ERROR] require_once(libs/Message.php) [<a href='0function.require-once0'>function.require-once0</a>]: Failed to open stream: No such file or directory in C:\wampp\www\Loove4\app\bootstrap.php on line 11
+[28-May-2025 09:59:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'libs/Message.php' (include_path='.;C:\php\pear') in C:\wampp\www\Loove4\app\bootstrap.php:11
+Stack trace:
+#0 C:\wampp\www\Loove4\app\views\includes\navbar.php(43): {closure}('Message')
+#1 C:\wampp\www\Loove4\app\views\includes\header.php(23): require('C:\\wampp\\www\\Lo...')
+#2 C:\wampp\www\Loove4\app\views\pages\index.php(1): require('C:\\wampp\\www\\Lo...')
+#3 C:\wampp\www\Loove4\app\libs\Controller.php(15): require_once('C:\\wampp\\www\\Lo...')
+#4 C:\wampp\www\Loove4\app\controllers\Pages.php(23): Controller->view('pages/index', Array)
+#5 C:\wampp\www\Loove4\app\libs\Router.php(38): Pages->index('img', 'favicon.png')
+#6 C:\wampp\www\Loove4\public\index.php(5): Router->__construct()
+#7 {main}
+  thrown in C:\wampp\www\Loove4\app\bootstrap.php on line 11
+2025-05-28 09:59:15 [ERROR] require_once(libs/Message.php) [<a href='0function.require-once0'>function.require-once0</a>]: Failed to open stream: No such file or directory in C:\wampp\www\Loove4\app\bootstrap.php on line 11
+[28-May-2025 09:59:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'libs/Message.php' (include_path='.;C:\php\pear') in C:\wampp\www\Loove4\app\bootstrap.php:11
+Stack trace:
+#0 C:\wampp\www\Loove4\app\views\includes\navbar.php(43): {closure}('Message')
+#1 C:\wampp\www\Loove4\app\views\includes\header.php(23): require('C:\\wampp\\www\\Lo...')
+#2 C:\wampp\www\Loove4\app\views\matches\index.php(1): require('C:\\wampp\\www\\Lo...')
+#3 C:\wampp\www\Loove4\app\libs\Controller.php(15): require_once('C:\\wampp\\www\\Lo...')
+#4 C:\wampp\www\Loove4\app\controllers\Matches.php(22): Controller->view('matches/index', Array)
+#5 C:\wampp\www\Loove4\app\libs\Router.php(38): Matches->index()
+#6 C:\wampp\www\Loove4\public\index.php(5): Router->__construct()
+#7 {main}
+  thrown in C:\wampp\www\Loove4\app\bootstrap.php on line 11
+2025-05-28 09:59:15 [ERROR] require_once(libs/Message.php) [<a href='0function.require-once0'>function.require-once0</a>]: Failed to open stream: No such file or directory in C:\wampp\www\Loove4\app\bootstrap.php on line 11
+[28-May-2025 09:59:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'libs/Message.php' (include_path='.;C:\php\pear') in C:\wampp\www\Loove4\app\bootstrap.php:11
+Stack trace:
+#0 C:\wampp\www\Loove4\app\views\includes\navbar.php(43): {closure}('Message')
+#1 C:\wampp\www\Loove4\app\views\includes\header.php(23): require('C:\\wampp\\www\\Lo...')
+#2 C:\wampp\www\Loove4\app\views\pages\index.php(1): require('C:\\wampp\\www\\Lo...')
+#3 C:\wampp\www\Loove4\app\libs\Controller.php(15): require_once('C:\\wampp\\www\\Lo...')
+#4 C:\wampp\www\Loove4\app\controllers\Pages.php(23): Controller->view('pages/index', Array)
+#5 C:\wampp\www\Loove4\app\libs\Router.php(38): Pages->index('img', 'favicon.png')
+#6 C:\wampp\www\Loove4\public\index.php(5): Router->__construct()
+#7 {main}
+  thrown in C:\wampp\www\Loove4\app\bootstrap.php on line 11
+2025-05-28 09:59:17 [ERROR] require_once(libs/Message.php) [<a href='0function.require-once0'>function.require-once0</a>]: Failed to open stream: No such file or directory in C:\wampp\www\Loove4\app\bootstrap.php on line 11
+[28-May-2025 09:59:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'libs/Message.php' (include_path='.;C:\php\pear') in C:\wampp\www\Loove4\app\bootstrap.php:11
+Stack trace:
+#0 C:\wampp\www\Loove4\app\views\includes\navbar.php(43): {closure}('Message')
+#1 C:\wampp\www\Loove4\app\views\includes\header.php(23): require('C:\\wampp\\www\\Lo...')
+#2 C:\wampp\www\Loove4\app\views\discover\index.php(1): require('C:\\wampp\\www\\Lo...')
+#3 C:\wampp\www\Loove4\app\libs\Controller.php(15): require_once('C:\\wampp\\www\\Lo...')
+#4 C:\wampp\www\Loove4\app\controllers\Discover.php(24): Controller->view('discover/index', Array)
+#5 C:\wampp\www\Loove4\app\libs\Router.php(38): Discover->index()
+#6 C:\wampp\www\Loove4\public\index.php(5): Router->__construct()
+#7 {main}
+  thrown in C:\wampp\www\Loove4\app\bootstrap.php on line 11
+2025-05-28 09:59:17 [ERROR] require_once(libs/Message.php) [<a href='0function.require-once0'>function.require-once0</a>]: Failed to open stream: No such file or directory in C:\wampp\www\Loove4\app\bootstrap.php on line 11
+[28-May-2025 09:59:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'libs/Message.php' (include_path='.;C:\php\pear') in C:\wampp\www\Loove4\app\bootstrap.php:11
+Stack trace:
+#0 C:\wampp\www\Loove4\app\views\includes\navbar.php(43): {closure}('Message')
+#1 C:\wampp\www\Loove4\app\views\includes\header.php(23): require('C:\\wampp\\www\\Lo...')
+#2 C:\wampp\www\Loove4\app\views\pages\index.php(1): require('C:\\wampp\\www\\Lo...')
+#3 C:\wampp\www\Loove4\app\libs\Controller.php(15): require_once('C:\\wampp\\www\\Lo...')
+#4 C:\wampp\www\Loove4\app\controllers\Pages.php(23): Controller->view('pages/index', Array)
+#5 C:\wampp\www\Loove4\app\libs\Router.php(38): Pages->index('img', 'favicon.png')
+#6 C:\wampp\www\Loove4\public\index.php(5): Router->__construct()
+#7 {main}
+  thrown in C:\wampp\www\Loove4\app\bootstrap.php on line 11
+2025-05-28 09:59:18 [ERROR] require_once(libs/Message.php) [<a href='0function.require-once0'>function.require-once0</a>]: Failed to open stream: No such file or directory in C:\wampp\www\Loove4\app\bootstrap.php on line 11
+[28-May-2025 09:59:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'libs/Message.php' (include_path='.;C:\php\pear') in C:\wampp\www\Loove4\app\bootstrap.php:11
+Stack trace:
+#0 C:\wampp\www\Loove4\app\views\includes\navbar.php(43): {closure}('Message')
+#1 C:\wampp\www\Loove4\app\views\includes\header.php(23): require('C:\\wampp\\www\\Lo...')
+#2 C:\wampp\www\Loove4\app\views\pages\index.php(1): require('C:\\wampp\\www\\Lo...')
+#3 C:\wampp\www\Loove4\app\libs\Controller.php(15): require_once('C:\\wampp\\www\\Lo...')
+#4 C:\wampp\www\Loove4\app\controllers\Pages.php(23): Controller->view('pages/index', Array)
+#5 C:\wampp\www\Loove4\app\libs\Router.php(38): Pages->index()
+#6 C:\wampp\www\Loove4\public\index.php(5): Router->__construct()
+#7 {main}
+  thrown in C:\wampp\www\Loove4\app\bootstrap.php on line 11
+2025-05-28 09:59:18 [ERROR] require_once(libs/Message.php) [<a href='0function.require-once0'>function.require-once0</a>]: Failed to open stream: No such file or directory in C:\wampp\www\Loove4\app\bootstrap.php on line 11
+[28-May-2025 09:59:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'libs/Message.php' (include_path='.;C:\php\pear') in C:\wampp\www\Loove4\app\bootstrap.php:11
+Stack trace:
+#0 C:\wampp\www\Loove4\app\views\includes\navbar.php(43): {closure}('Message')
+#1 C:\wampp\www\Loove4\app\views\includes\header.php(23): require('C:\\wampp\\www\\Lo...')
+#2 C:\wampp\www\Loove4\app\views\pages\index.php(1): require('C:\\wampp\\www\\Lo...')
+#3 C:\wampp\www\Loove4\app\libs\Controller.php(15): require_once('C:\\wampp\\www\\Lo...')
+#4 C:\wampp\www\Loove4\app\controllers\Pages.php(23): Controller->view('pages/index', Array)
+#5 C:\wampp\www\Loove4\app\libs\Router.php(38): Pages->index('img', 'favicon.png')
+#6 C:\wampp\www\Loove4\public\index.php(5): Router->__construct()
+#7 {main}
+  thrown in C:\wampp\www\Loove4\app\bootstrap.php on line 11
+2025-05-28 09:59:19 [ERROR] require_once(libs/Message.php) [<a href='0function.require-once0'>function.require-once0</a>]: Failed to open stream: No such file or directory in C:\wampp\www\Loove4\app\bootstrap.php on line 11
+[28-May-2025 09:59:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'libs/Message.php' (include_path='.;C:\php\pear') in C:\wampp\www\Loove4\app\bootstrap.php:11
+Stack trace:
+#0 C:\wampp\www\Loove4\app\views\includes\navbar.php(43): {closure}('Message')
+#1 C:\wampp\www\Loove4\app\views\includes\header.php(23): require('C:\\wampp\\www\\Lo...')
+#2 C:\wampp\www\Loove4\app\views\matches\index.php(1): require('C:\\wampp\\www\\Lo...')
+#3 C:\wampp\www\Loove4\app\libs\Controller.php(15): require_once('C:\\wampp\\www\\Lo...')
+#4 C:\wampp\www\Loove4\app\controllers\Matches.php(22): Controller->view('matches/index', Array)
+#5 C:\wampp\www\Loove4\app\libs\Router.php(38): Matches->index()
+#6 C:\wampp\www\Loove4\public\index.php(5): Router->__construct()
+#7 {main}
+  thrown in C:\wampp\www\Loove4\app\bootstrap.php on line 11
+2025-05-28 09:59:19 [ERROR] require_once(libs/Message.php) [<a href='0function.require-once0'>function.require-once0</a>]: Failed to open stream: No such file or directory in C:\wampp\www\Loove4\app\bootstrap.php on line 11
+[28-May-2025 09:59:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'libs/Message.php' (include_path='.;C:\php\pear') in C:\wampp\www\Loove4\app\bootstrap.php:11
+Stack trace:
+#0 C:\wampp\www\Loove4\app\views\includes\navbar.php(43): {closure}('Message')
+#1 C:\wampp\www\Loove4\app\views\includes\header.php(23): require('C:\\wampp\\www\\Lo...')
+#2 C:\wampp\www\Loove4\app\views\pages\index.php(1): require('C:\\wampp\\www\\Lo...')
+#3 C:\wampp\www\Loove4\app\libs\Controller.php(15): require_once('C:\\wampp\\www\\Lo...')
+#4 C:\wampp\www\Loove4\app\controllers\Pages.php(23): Controller->view('pages/index', Array)
+#5 C:\wampp\www\Loove4\app\libs\Router.php(38): Pages->index('img', 'favicon.png')
+#6 C:\wampp\www\Loove4\public\index.php(5): Router->__construct()
+#7 {main}
+  thrown in C:\wampp\www\Loove4\app\bootstrap.php on line 11
+2025-05-28 09:59:19 [ERROR] require_once(libs/Message.php) [<a href='0function.require-once0'>function.require-once0</a>]: Failed to open stream: No such file or directory in C:\wampp\www\Loove4\app\bootstrap.php on line 11
+[28-May-2025 09:59:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'libs/Message.php' (include_path='.;C:\php\pear') in C:\wampp\www\Loove4\app\bootstrap.php:11
+Stack trace:
+#0 C:\wampp\www\Loove4\app\views\includes\navbar.php(43): {closure}('Message')
+#1 C:\wampp\www\Loove4\app\views\includes\header.php(23): require('C:\\wampp\\www\\Lo...')
+#2 C:\wampp\www\Loove4\app\views\pages\index.php(1): require('C:\\wampp\\www\\Lo...')
+#3 C:\wampp\www\Loove4\app\libs\Controller.php(15): require_once('C:\\wampp\\www\\Lo...')
+#4 C:\wampp\www\Loove4\app\controllers\Pages.php(23): Controller->view('pages/index', Array)
+#5 C:\wampp\www\Loove4\app\libs\Router.php(38): Pages->index('img', 'favicon.png')
+#6 C:\wampp\www\Loove4\public\index.php(5): Router->__construct()
+#7 {main}
+  thrown in C:\wampp\www\Loove4\app\bootstrap.php on line 11
+2025-05-28 09:59:20 [ERROR] require_once(libs/Message.php) [<a href='0function.require-once0'>function.require-once0</a>]: Failed to open stream: No such file or directory in C:\wampp\www\Loove4\app\bootstrap.php on line 11
+[28-May-2025 09:59:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'libs/Message.php' (include_path='.;C:\php\pear') in C:\wampp\www\Loove4\app\bootstrap.php:11
+Stack trace:
+#0 C:\wampp\www\Loove4\app\views\includes\navbar.php(43): {closure}('Message')
+#1 C:\wampp\www\Loove4\app\views\includes\header.php(23): require('C:\\wampp\\www\\Lo...')
+#2 C:\wampp\www\Loove4\app\views\pages\index.php(1): require('C:\\wampp\\www\\Lo...')
+#3 C:\wampp\www\Loove4\app\libs\Controller.php(15): require_once('C:\\wampp\\www\\Lo...')
+#4 C:\wampp\www\Loove4\app\controllers\Pages.php(23): Controller->view('pages/index', Array)
+#5 C:\wampp\www\Loove4\app\libs\Router.php(38): Pages->index('img', 'favicon.png')
+#6 C:\wampp\www\Loove4\public\index.php(5): Router->__construct()
+#7 {main}
+  thrown in C:\wampp\www\Loove4\app\bootstrap.php on line 11
+2025-05-28 09:59:21 [ERROR] require_once(libs/Message.php) [<a href='0function.require-once0'>function.require-once0</a>]: Failed to open stream: No such file or directory in C:\wampp\www\Loove4\app\bootstrap.php on line 11
+[28-May-2025 09:59:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'libs/Message.php' (include_path='.;C:\php\pear') in C:\wampp\www\Loove4\app\bootstrap.php:11
+Stack trace:
+#0 C:\wampp\www\Loove4\app\views\includes\navbar.php(43): {closure}('Message')
+#1 C:\wampp\www\Loove4\app\views\includes\header.php(23): require('C:\\wampp\\www\\Lo...')
+#2 C:\wampp\www\Loove4\app\views\pages\index.php(1): require('C:\\wampp\\www\\Lo...')
+#3 C:\wampp\www\Loove4\app\libs\Controller.php(15): require_once('C:\\wampp\\www\\Lo...')
+#4 C:\wampp\www\Loove4\app\controllers\Pages.php(23): Controller->view('pages/index', Array)
+#5 C:\wampp\www\Loove4\app\libs\Router.php(38): Pages->index()
+#6 C:\wampp\www\Loove4\public\index.php(5): Router->__construct()
+#7 {main}
+  thrown in C:\wampp\www\Loove4\app\bootstrap.php on line 11
+2025-05-28 09:59:21 [ERROR] require_once(libs/Message.php) [<a href='0function.require-once0'>function.require-once0</a>]: Failed to open stream: No such file or directory in C:\wampp\www\Loove4\app\bootstrap.php on line 11
+[28-May-2025 09:59:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'libs/Message.php' (include_path='.;C:\php\pear') in C:\wampp\www\Loove4\app\bootstrap.php:11
+Stack trace:
+#0 C:\wampp\www\Loove4\app\views\includes\navbar.php(43): {closure}('Message')
+#1 C:\wampp\www\Loove4\app\views\includes\header.php(23): require('C:\\wampp\\www\\Lo...')
+#2 C:\wampp\www\Loove4\app\views\pages\index.php(1): require('C:\\wampp\\www\\Lo...')
+#3 C:\wampp\www\Loove4\app\libs\Controller.php(15): require_once('C:\\wampp\\www\\Lo...')
+#4 C:\wampp\www\Loove4\app\controllers\Pages.php(23): Controller->view('pages/index', Array)
+#5 C:\wampp\www\Loove4\app\libs\Router.php(38): Pages->index('img', 'favicon.png')
+#6 C:\wampp\www\Loove4\public\index.php(5): Router->__construct()
+#7 {main}
+  thrown in C:\wampp\www\Loove4\app\bootstrap.php on line 11
+[28-May-2025 10:05:31 UTC] PHP Parse error:  syntax error, unexpected token ",", expecting "]" in C:\wampp\www\Loove4\app\controllers\Messages.php on line 140
+2025-05-28 10:08:34 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Messages.php on line 94
+2025-05-28 10:10:57 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Messages.php on line 94
+2025-05-28 10:10:57 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Messages.php on line 94
+2025-05-28 10:10:58 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Messages.php on line 94
+2025-05-28 10:10:58 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Messages.php on line 94
+2025-05-28 10:10:58 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Messages.php on line 94
+2025-05-28 10:12:52 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Messages.php on line 92
+2025-05-28 10:12:53 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Messages.php on line 92
+2025-05-28 10:12:54 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Messages.php on line 92
+2025-05-28 10:12:54 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Messages.php on line 92
+2025-05-28 10:12:54 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Messages.php on line 92
+2025-05-28 10:12:54 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Messages.php on line 92
+2025-05-28 10:12:55 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Messages.php on line 92
+[28-May-2025 10:15:14 UTC] PHP Parse error:  syntax error, unexpected token "match", expecting identifier in C:\wampp\www\Loove4\app\models\Match.php on line 2
+2025-05-28 11:42:35 [ERROR] Attempt to read property "plan_id" on false in C:\wampp\www\Loove4\app\views\subscriptions\index.php on line 215
+2025-05-28 11:42:35 [ERROR] Attempt to read property "plan_id" on false in C:\wampp\www\Loove4\app\views\subscriptions\index.php on line 215
+2025-05-28 11:42:35 [ERROR] Attempt to read property "plan_id" on false in C:\wampp\www\Loove4\app\views\subscriptions\index.php on line 215
+2025-05-28 11:42:35 [ERROR] Attempt to read property "plan_id" on false in C:\wampp\www\Loove4\app\views\subscriptions\index.php on line 215
+2025-05-28 11:45:21 [ERROR] Undefined variable $features in C:\wampp\www\Loove4\app\views\subscriptions\index.php on line 250
+2025-05-28 11:45:21 [ERROR] foreach() argument must be of type array|object, null given in C:\wampp\www\Loove4\app\views\subscriptions\index.php on line 250
+2025-05-28 11:45:21 [ERROR] Undefined variable $features in C:\wampp\www\Loove4\app\views\subscriptions\index.php on line 250
+2025-05-28 11:45:21 [ERROR] foreach() argument must be of type array|object, null given in C:\wampp\www\Loove4\app\views\subscriptions\index.php on line 250
+2025-05-28 11:45:21 [ERROR] Undefined variable $features in C:\wampp\www\Loove4\app\views\subscriptions\index.php on line 250
+2025-05-28 11:45:21 [ERROR] foreach() argument must be of type array|object, null given in C:\wampp\www\Loove4\app\views\subscriptions\index.php on line 250
+2025-05-28 11:45:21 [ERROR] Undefined variable $features in C:\wampp\www\Loove4\app\views\subscriptions\index.php on line 250
+2025-05-28 11:45:21 [ERROR] foreach() argument must be of type array|object, null given in C:\wampp\www\Loove4\app\views\subscriptions\index.php on line 250
+2025-05-28 11:48:05 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Subscriptions.php on line 55
+2025-05-28 11:53:50 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Subscriptions.php on line 57
+2025-05-28 11:54:32 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Subscriptions.php on line 57
+2025-05-28 11:54:34 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Subscriptions.php on line 57
+2025-05-28 11:54:52 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Subscriptions.php on line 57
+2025-05-28 11:55:23 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 137
+2025-05-28 12:00:00 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Settings.php on line 101
+2025-05-28 12:00:02 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Settings.php on line 101
+2025-05-28 12:06:56 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 137
+2025-05-28 12:09:10 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 145
+2025-05-28 12:10:24 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 145
+2025-05-28 12:11:12 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 145
+2025-05-28 12:11:54 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 15
+2025-05-28 12:12:13 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 15
+2025-05-28 12:12:28 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 145
+2025-05-28 12:12:28 [ERROR] Creation of dynamic property Users::$db is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 217
+2025-05-28 12:13:25 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 145
+2025-05-28 12:15:41 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 21
+2025-05-28 12:16:19 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 21
+2025-05-28 12:21:22 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 278
+2025-05-28 12:21:29 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 278
+2025-05-28 12:21:30 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 278
+2025-06-02 07:17:17 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 152
+2025-06-02 07:17:24 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 152
+2025-06-02 07:19:18 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 152
+2025-06-02 07:19:22 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 152
+2025-06-02 07:19:53 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 21
+2025-06-02 07:20:02 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 152
+2025-06-02 07:20:02 [ERROR] Creation of dynamic property Users::$db is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 224
+2025-06-02 07:21:36 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Subscriptions.php on line 57
+2025-06-02 13:24:36 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 21
+2025-06-02 13:24:46 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 152
+2025-06-02 13:24:46 [ERROR] Creation of dynamic property Users::$db is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 224
+2025-06-02 13:25:50 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Profiles.php on line 50
+2025-06-06 11:32:39 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 21
+2025-06-06 11:32:47 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 152
+2025-06-06 11:32:47 [ERROR] Creation of dynamic property Users::$db is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 224
+2025-06-06 14:19:36 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 152
+2025-06-06 14:19:36 [ERROR] Creation of dynamic property Users::$db is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 224
+2025-06-16 12:12:27 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 152
+2025-06-16 12:12:35 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 152
+2025-06-16 12:13:11 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 21
+2025-06-16 12:13:27 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 21
+2025-06-16 12:13:42 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 21
+2025-06-16 12:13:51 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 152
+2025-06-16 12:13:51 [ERROR] Creation of dynamic property Users::$db is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 224
+2025-06-16 12:21:05 [ERROR] require_once(libs/User.php) [<a href='0function.require-once0'>function.require-once0</a>]: Failed to open stream: No such file or directory in C:\wampp\www\Loove4\app\bootstrap.php on line 12
+[16-Jun-2025 12:21:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'libs/User.php' (include_path='.;C:\php\pear') in C:\wampp\www\Loove4\app\bootstrap.php:12
+Stack trace:
+#0 C:\wampp\www\Loove4\app\views\includes\navbar.php(70): {closure}('User')
+#1 C:\wampp\www\Loove4\app\views\includes\header.php(23): require('C:\\wampp\\www\\Lo...')
+#2 C:\wampp\www\Loove4\app\views\discover\index.php(1): require('C:\\wampp\\www\\Lo...')
+#3 C:\wampp\www\Loove4\app\controllers\Controller.php(20): require_once('C:\\wampp\\www\\Lo...')
+#4 C:\wampp\www\Loove4\app\controllers\Discover.php(24): Controller->view('discover/index', Array)
+#5 C:\wampp\www\Loove4\app\libs\Router.php(38): Discover->index()
+#6 C:\wampp\www\Loove4\public\index.php(5): Router->__construct()
+#7 {main}
+  thrown in C:\wampp\www\Loove4\app\bootstrap.php on line 12
+2025-06-16 12:21:07 [ERROR] require_once(libs/User.php) [<a href='0function.require-once0'>function.require-once0</a>]: Failed to open stream: No such file or directory in C:\wampp\www\Loove4\app\bootstrap.php on line 12
+[16-Jun-2025 12:21:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'libs/User.php' (include_path='.;C:\php\pear') in C:\wampp\www\Loove4\app\bootstrap.php:12
+Stack trace:
+#0 C:\wampp\www\Loove4\app\views\includes\navbar.php(70): {closure}('User')
+#1 C:\wampp\www\Loove4\app\views\includes\header.php(23): require('C:\\wampp\\www\\Lo...')
+#2 C:\wampp\www\Loove4\app\views\discover\index.php(1): require('C:\\wampp\\www\\Lo...')
+#3 C:\wampp\www\Loove4\app\controllers\Controller.php(20): require_once('C:\\wampp\\www\\Lo...')
+#4 C:\wampp\www\Loove4\app\controllers\Discover.php(24): Controller->view('discover/index', Array)
+#5 C:\wampp\www\Loove4\app\libs\Router.php(38): Discover->index()
+#6 C:\wampp\www\Loove4\public\index.php(5): Router->__construct()
+#7 {main}
+  thrown in C:\wampp\www\Loove4\app\bootstrap.php on line 12
+2025-06-16 12:21:11 [ERROR] require_once(libs/User.php) [<a href='0function.require-once0'>function.require-once0</a>]: Failed to open stream: No such file or directory in C:\wampp\www\Loove4\app\bootstrap.php on line 12
+[16-Jun-2025 12:21:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'libs/User.php' (include_path='.;C:\php\pear') in C:\wampp\www\Loove4\app\bootstrap.php:12
+Stack trace:
+#0 C:\wampp\www\Loove4\app\views\includes\navbar.php(70): {closure}('User')
+#1 C:\wampp\www\Loove4\app\views\includes\header.php(23): require('C:\\wampp\\www\\Lo...')
+#2 C:\wampp\www\Loove4\app\views\discover\index.php(1): require('C:\\wampp\\www\\Lo...')
+#3 C:\wampp\www\Loove4\app\controllers\Controller.php(20): require_once('C:\\wampp\\www\\Lo...')
+#4 C:\wampp\www\Loove4\app\controllers\Discover.php(24): Controller->view('discover/index', Array)
+#5 C:\wampp\www\Loove4\app\libs\Router.php(38): Discover->index()
+#6 C:\wampp\www\Loove4\public\index.php(5): Router->__construct()
+#7 {main}
+  thrown in C:\wampp\www\Loove4\app\bootstrap.php on line 12
+2025-06-16 12:21:12 [ERROR] require_once(libs/User.php) [<a href='0function.require-once0'>function.require-once0</a>]: Failed to open stream: No such file or directory in C:\wampp\www\Loove4\app\bootstrap.php on line 12
+[16-Jun-2025 12:21:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'libs/User.php' (include_path='.;C:\php\pear') in C:\wampp\www\Loove4\app\bootstrap.php:12
+Stack trace:
+#0 C:\wampp\www\Loove4\app\views\includes\navbar.php(70): {closure}('User')
+#1 C:\wampp\www\Loove4\app\views\includes\header.php(23): require('C:\\wampp\\www\\Lo...')
+#2 C:\wampp\www\Loove4\app\views\discover\index.php(1): require('C:\\wampp\\www\\Lo...')
+#3 C:\wampp\www\Loove4\app\controllers\Controller.php(20): require_once('C:\\wampp\\www\\Lo...')
+#4 C:\wampp\www\Loove4\app\controllers\Discover.php(24): Controller->view('discover/index', Array)
+#5 C:\wampp\www\Loove4\app\libs\Router.php(38): Discover->index()
+#6 C:\wampp\www\Loove4\public\index.php(5): Router->__construct()
+#7 {main}
+  thrown in C:\wampp\www\Loove4\app\bootstrap.php on line 12
+2025-06-16 12:22:20 [ERROR] require_once(libs/User.php) [<a href='0function.require-once0'>function.require-once0</a>]: Failed to open stream: No such file or directory in C:\wampp\www\Loove4\app\bootstrap.php on line 12
+[16-Jun-2025 12:22:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'libs/User.php' (include_path='.;C:\php\pear') in C:\wampp\www\Loove4\app\bootstrap.php:12
+Stack trace:
+#0 C:\wampp\www\Loove4\app\views\includes\navbar.php(70): {closure}('User')
+#1 C:\wampp\www\Loove4\app\views\includes\header.php(23): require('C:\\wampp\\www\\Lo...')
+#2 C:\wampp\www\Loove4\app\views\discover\index.php(1): require('C:\\wampp\\www\\Lo...')
+#3 C:\wampp\www\Loove4\app\controllers\Controller.php(20): require_once('C:\\wampp\\www\\Lo...')
+#4 C:\wampp\www\Loove4\app\controllers\Discover.php(24): Controller->view('discover/index', Array)
+#5 C:\wampp\www\Loove4\app\libs\Router.php(38): Discover->index()
+#6 C:\wampp\www\Loove4\public\index.php(5): Router->__construct()
+#7 {main}
+  thrown in C:\wampp\www\Loove4\app\bootstrap.php on line 12
+2025-06-16 12:22:26 [ERROR] require_once(libs/User.php) [<a href='0function.require-once0'>function.require-once0</a>]: Failed to open stream: No such file or directory in C:\wampp\www\Loove4\app\bootstrap.php on line 12
+[16-Jun-2025 12:22:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'libs/User.php' (include_path='.;C:\php\pear') in C:\wampp\www\Loove4\app\bootstrap.php:12
+Stack trace:
+#0 C:\wampp\www\Loove4\app\views\includes\navbar.php(70): {closure}('User')
+#1 C:\wampp\www\Loove4\app\views\includes\header.php(23): require('C:\\wampp\\www\\Lo...')
+#2 C:\wampp\www\Loove4\app\views\discover\index.php(1): require('C:\\wampp\\www\\Lo...')
+#3 C:\wampp\www\Loove4\app\controllers\Controller.php(20): require_once('C:\\wampp\\www\\Lo...')
+#4 C:\wampp\www\Loove4\app\controllers\Discover.php(24): Controller->view('discover/index', Array)
+#5 C:\wampp\www\Loove4\app\libs\Router.php(38): Discover->index()
+#6 C:\wampp\www\Loove4\public\index.php(5): Router->__construct()
+#7 {main}
+  thrown in C:\wampp\www\Loove4\app\bootstrap.php on line 12
+2025-06-16 12:24:16 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 152
+2025-06-16 12:24:16 [ERROR] Creation of dynamic property Users::$db is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 224
+2025-06-16 12:39:37 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 152
+2025-06-16 12:39:37 [ERROR] Creation of dynamic property Users::$db is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 224
+[16-Jun-2025 12:39:39 UTC] PHP Parse error:  syntax error, unexpected token "=>" in C:\wampp\www\Loove4\app\controllers\Admin.php on line 197
+[16-Jun-2025 12:40:28 UTC] PHP Parse error:  syntax error, unexpected token "=>" in C:\wampp\www\Loove4\app\controllers\Admin.php on line 197
+[16-Jun-2025 12:41:19 UTC] PHP Parse error:  syntax error, unexpected token "public", expecting end of file in C:\wampp\www\Loove4\app\controllers\Admin.php on line 122
+[16-Jun-2025 12:41:20 UTC] PHP Parse error:  syntax error, unexpected token "public", expecting end of file in C:\wampp\www\Loove4\app\controllers\Admin.php on line 122
+2025-06-16 12:58:22 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 152
+2025-06-16 12:58:29 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 152
+2025-06-16 13:00:08 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 152
+2025-06-16 13:00:22 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 152
+2025-06-16 13:00:32 [ERROR] Constant FILTER_SANITIZE_STRING is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 152
+2025-06-16 13:02:52 [ERROR] Creation of dynamic property Users::$db is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 242
+[16-Jun-2025 13:02:52 UTC] PHP Parse error:  syntax error, unexpected token "as" in C:\wampp\www\Loove4\app\models\Subscription.php on line 377
+2025-06-17 11:43:22 [ERROR] Creation of dynamic property Users::$db is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 242
+2025-06-19 07:10:39 [ERROR] Creation of dynamic property Users::$db is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 242
+[19-Jun-2025 07:14:56 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in C:\wampp\www\Loove4\app\views\pages\index.php on line 107
+[19-Jun-2025 07:16:15 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in C:\wampp\www\Loove4\app\views\pages\index.php on line 107
+[19-Jun-2025 07:16:24 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in C:\wampp\www\Loove4\app\views\pages\index.php on line 107
+[19-Jun-2025 07:17:13 UTC] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in C:\wampp\www\Loove4\app\views\pages\index.php on line 107
+2025-06-19 07:18:56 [ERROR] Creation of dynamic property Users::$db is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 264
+[19-Jun-2025 07:51:37 UTC] Erreur d'exécution SQL: SQLSTATE[42S22]: Column not found: 1054 Champ 'is_banned' inconnu dans where clause
+2025-06-19 07:51:37 [ERROR] require(C:\wampp\www\Loove4\app/views/includes/admin_header.php) [<a href='0function.require0'>function.require0</a>]: Failed to open stream: No such file or directory in C:\wampp\www\Loove4\app\views\admin\dashboard.php on line 1
+[19-Jun-2025 07:51:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\wampp\www\Loove4\app/views/includes/admin_header.php' (include_path='.;C:\php\pear') in C:\wampp\www\Loove4\app\views\admin\dashboard.php:1
+Stack trace:
+#0 C:\wampp\www\Loove4\app\controllers\Controller.php(20): require_once()
+#1 C:\wampp\www\Loove4\app\controllers\AdminDashboard.php(64): Controller->view('admin/dashboard', Array)
+#2 C:\wampp\www\Loove4\app\libs\Router.php(38): AdminDashboard->index()
+#3 C:\wampp\www\Loove4\public\index.php(5): Router->__construct()
+#4 {main}
+  thrown in C:\wampp\www\Loove4\app\views\admin\dashboard.php on line 1
+[19-Jun-2025 07:55:57 UTC] Erreur d'exécution SQL: SQLSTATE[42S22]: Column not found: 1054 Champ 'is_banned' inconnu dans where clause
+[19-Jun-2025 07:55:58 UTC] Erreur d'exécution SQL: SQLSTATE[42S22]: Column not found: 1054 Champ 'is_banned' inconnu dans where clause
+2025-06-19 07:57:57 [ERROR] Creation of dynamic property Users::$db is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 264
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 39
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 39
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 39
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 39
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 39
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 39
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 39
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 39
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 39
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 39
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 39
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 39
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 39
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 39
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 39
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 39
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 57
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 57
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 57
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 57
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 57
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 57
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 57
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 57
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 75
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 75
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 75
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 75
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 75
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 75
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 75
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 75
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 147
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 151
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 175
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 189
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 147
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 151
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 175
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 189
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 147
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 151
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 175
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 189
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 147
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 151
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 175
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 189
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 147
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 151
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 175
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 189
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 147
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 151
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 175
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 189
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 147
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 151
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 175
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 189
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 147
+2025-06-19 08:17:37 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 151
+[19-Jun-2025 08:17:42 UTC] Erreur d'exécution SQL: SQLSTATE[42S22]: Column not found: 1054 Champ 'is_banned' inconnu dans where clause
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 39
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 39
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 39
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 39
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 39
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 39
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 39
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 39
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 39
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 39
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 39
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 39
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 39
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 39
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 39
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 39
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 57
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 57
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 57
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 57
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 57
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 57
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 57
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 57
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 75
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 75
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 75
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 75
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 75
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 75
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 75
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 75
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 147
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 151
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 175
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 189
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 147
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 151
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 175
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 189
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 147
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 151
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 175
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 189
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 147
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 151
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 175
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 189
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 147
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 151
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 175
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 189
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 147
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 151
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 175
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 189
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 147
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 151
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 175
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 189
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_banned in C:\wampp\www\Loove4\app\views\admin\users.php on line 147
+2025-06-19 08:17:52 [ERROR] Undefined property: stdClass::$is_suspended in C:\wampp\www\Loove4\app\views\admin\users.php on line 151
+2025-06-19 08:32:39 [ERROR] Creation of dynamic property Users::$db is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 264
+[19-Jun-2025 08:36:22 UTC] PHP Warning:  session_start() [<a href='0function.session-start0'>function.session-start0</a>]: open(c:/wampp/tmp\sess_oaaob304r2p7b7qi60pl3ov0ms, O_RDWR) failed: Permission denied (13) in C:\wampp\www\Loove4\app\helpers\session_helper.php on line 2
+[19-Jun-2025 08:36:22 UTC] PHP Stack trace:
+[19-Jun-2025 08:36:22 UTC] PHP   1. {main}() C:\wampp\www\Loove4\public\index.php:0
+[19-Jun-2025 08:36:22 UTC] PHP   2. require_once() C:\wampp\www\Loove4\public\index.php:2
+[19-Jun-2025 08:36:22 UTC] PHP   3. require_once() C:\wampp\www\Loove4\app\bootstrap.php:7
+[19-Jun-2025 08:36:22 UTC] PHP   4. session_start() C:\wampp\www\Loove4\app\helpers\session_helper.php:2
+[19-Jun-2025 08:36:22 UTC] PHP Warning:  session_start() [<a href='0function.session-start0'>function.session-start0</a>]: Failed to read session data: files (path: c:/wampp/tmp) in C:\wampp\www\Loove4\app\helpers\session_helper.php on line 2
+[19-Jun-2025 08:36:22 UTC] PHP Stack trace:
+[19-Jun-2025 08:36:22 UTC] PHP   1. {main}() C:\wampp\www\Loove4\public\index.php:0
+[19-Jun-2025 08:36:22 UTC] PHP   2. require_once() C:\wampp\www\Loove4\public\index.php:2
+[19-Jun-2025 08:36:22 UTC] PHP   3. require_once() C:\wampp\www\Loove4\app\bootstrap.php:7
+[19-Jun-2025 08:36:22 UTC] PHP   4. session_start() C:\wampp\www\Loove4\app\helpers\session_helper.php:2
+2025-06-19 08:40:50 [ERROR] Creation of dynamic property Users::$db is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 284
+2025-06-19 08:44:00 [ERROR] Creation of dynamic property Users::$db is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 284
+[19-Jun-2025 08:46:48 UTC] PHP Warning:  session_start() [<a href='0function.session-start0'>function.session-start0</a>]: open(c:/wampp/tmp\sess_oaaob304r2p7b7qi60pl3ov0ms, O_RDWR) failed: Permission denied (13) in C:\wampp\www\Loove4\app\helpers\session_helper.php on line 19
+[19-Jun-2025 08:46:48 UTC] PHP Stack trace:
+[19-Jun-2025 08:46:48 UTC] PHP   1. {main}() C:\wampp\www\Loove4\public\index.php:0
+[19-Jun-2025 08:46:48 UTC] PHP   2. require_once() C:\wampp\www\Loove4\public\index.php:2
+[19-Jun-2025 08:46:48 UTC] PHP   3. require_once() C:\wampp\www\Loove4\app\bootstrap.php:7
+[19-Jun-2025 08:46:48 UTC] PHP   4. session_start() C:\wampp\www\Loove4\app\helpers\session_helper.php:19
+[19-Jun-2025 08:46:48 UTC] PHP Warning:  session_start() [<a href='0function.session-start0'>function.session-start0</a>]: Failed to read session data: files (path: c:/wampp/tmp) in C:\wampp\www\Loove4\app\helpers\session_helper.php on line 19
+[19-Jun-2025 08:46:48 UTC] PHP Stack trace:
+[19-Jun-2025 08:46:48 UTC] PHP   1. {main}() C:\wampp\www\Loove4\public\index.php:0
+[19-Jun-2025 08:46:48 UTC] PHP   2. require_once() C:\wampp\www\Loove4\public\index.php:2
+[19-Jun-2025 08:46:48 UTC] PHP   3. require_once() C:\wampp\www\Loove4\app\bootstrap.php:7
+[19-Jun-2025 08:46:48 UTC] PHP   4. session_start() C:\wampp\www\Loove4\app\helpers\session_helper.php:19
+2025-06-19 08:47:03 [ERROR] Creation of dynamic property Users::$db is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 284
+2025-06-19 12:05:47 [ERROR] Creation of dynamic property Users::$db is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 284
+2025-06-19 12:29:27 [ERROR] Creation of dynamic property Users::$db is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 284
+2025-06-19 12:32:35 [ERROR] Creation of dynamic property Users::$db is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 284
+2025-06-20 16:24:14 [ERROR] Creation of dynamic property Users::$db is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 284
+[20-Jun-2025 16:38:26 UTC] PHP Warning:  session_start() [<a href='0function.session-start0'>function.session-start0</a>]: open(c:/wampp/tmp\sess_tj3bnbp2hgth7gfhrkmmis7nv0, O_RDWR) failed: Permission denied (13) in C:\wampp\www\Loove4\app\helpers\session_helper.php on line 19
+[20-Jun-2025 16:38:26 UTC] PHP Stack trace:
+[20-Jun-2025 16:38:26 UTC] PHP   1. {main}() C:\wampp\www\Loove4\public\index.php:0
+[20-Jun-2025 16:38:26 UTC] PHP   2. require_once() C:\wampp\www\Loove4\public\index.php:2
+[20-Jun-2025 16:38:26 UTC] PHP   3. require_once() C:\wampp\www\Loove4\app\bootstrap.php:7
+[20-Jun-2025 16:38:26 UTC] PHP   4. session_start() C:\wampp\www\Loove4\app\helpers\session_helper.php:19
+[20-Jun-2025 16:38:26 UTC] PHP Warning:  session_start() [<a href='0function.session-start0'>function.session-start0</a>]: Failed to read session data: files (path: c:/wampp/tmp) in C:\wampp\www\Loove4\app\helpers\session_helper.php on line 19
+[20-Jun-2025 16:38:26 UTC] PHP Stack trace:
+[20-Jun-2025 16:38:26 UTC] PHP   1. {main}() C:\wampp\www\Loove4\public\index.php:0
+[20-Jun-2025 16:38:26 UTC] PHP   2. require_once() C:\wampp\www\Loove4\public\index.php:2
+[20-Jun-2025 16:38:26 UTC] PHP   3. require_once() C:\wampp\www\Loove4\app\bootstrap.php:7
+[20-Jun-2025 16:38:26 UTC] PHP   4. session_start() C:\wampp\www\Loove4\app\helpers\session_helper.php:19
+2025-06-20 16:39:19 [ERROR] Creation of dynamic property Users::$db is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 284
+[20-Jun-2025 17:16:46 UTC] PHP Warning:  session_start() [<a href='0function.session-start0'>function.session-start0</a>]: open(c:/wampp/tmp\sess_tj3bnbp2hgth7gfhrkmmis7nv0, O_RDWR) failed: Permission denied (13) in C:\wampp\www\Loove4\app\helpers\session_helper.php on line 19
+[20-Jun-2025 17:16:46 UTC] PHP Stack trace:
+[20-Jun-2025 17:16:46 UTC] PHP   1. {main}() C:\wampp\www\Loove4\public\index.php:0
+[20-Jun-2025 17:16:46 UTC] PHP   2. require_once() C:\wampp\www\Loove4\public\index.php:2
+[20-Jun-2025 17:16:46 UTC] PHP   3. require_once() C:\wampp\www\Loove4\app\bootstrap.php:7
+[20-Jun-2025 17:16:46 UTC] PHP   4. session_start() C:\wampp\www\Loove4\app\helpers\session_helper.php:19
+[20-Jun-2025 17:16:46 UTC] PHP Warning:  session_start() [<a href='0function.session-start0'>function.session-start0</a>]: Failed to read session data: files (path: c:/wampp/tmp) in C:\wampp\www\Loove4\app\helpers\session_helper.php on line 19
+[20-Jun-2025 17:16:46 UTC] PHP Stack trace:
+[20-Jun-2025 17:16:46 UTC] PHP   1. {main}() C:\wampp\www\Loove4\public\index.php:0
+[20-Jun-2025 17:16:46 UTC] PHP   2. require_once() C:\wampp\www\Loove4\public\index.php:2
+[20-Jun-2025 17:16:46 UTC] PHP   3. require_once() C:\wampp\www\Loove4\app\bootstrap.php:7
+[20-Jun-2025 17:16:46 UTC] PHP   4. session_start() C:\wampp\www\Loove4\app\helpers\session_helper.php:19
+2025-06-20 17:17:01 [ERROR] Creation of dynamic property Users::$db is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 284
