@@ -201,8 +201,8 @@ class Messages extends Controller {
             date('Y-m-d H:i:s', strtotime('-5 hours')),
             date('Y-m-d H:i:s', strtotime('-1 day')),
             date('Y-m-d H:i:s', strtotime('-2 days')),
-            date('Y-m-d H:i:s', strtotime('-4 days'))
-        ];        
+            date('Y-m-d H:i:s', strtotime('-4 days'))        ];        
+        $count = rand(5, 10);
         for($i = 0; $i < $count; $i++) {
             $id = 1000 + $i;
             $firstName = $firstNames[array_rand($firstNames)];

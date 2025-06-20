@@ -684,3 +684,23 @@ Stack trace:
 [20-Jun-2025 17:16:46 UTC] PHP   3. require_once() C:\wampp\www\Loove4\app\bootstrap.php:7
 [20-Jun-2025 17:16:46 UTC] PHP   4. session_start() C:\wampp\www\Loove4\app\helpers\session_helper.php:19
 2025-06-20 17:17:01 [ERROR] Creation of dynamic property Users::$db is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 284
+2025-06-20 17:22:08 [ERROR] Creation of dynamic property Users::$db is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 284
+2025-06-20 20:52:00 [ERROR] Creation of dynamic property Users::$db is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 284
+2025-06-20 20:52:04 [ERROR] Undefined variable $count in C:\wampp\www\Loove4\app\controllers\Messages.php on line 206
+2025-06-20 20:52:09 [ERROR] Undefined variable $count in C:\wampp\www\Loove4\app\controllers\Messages.php on line 206
+2025-06-20 20:52:12 [ERROR] Undefined variable $count in C:\wampp\www\Loove4\app\controllers\Messages.php on line 206
+2025-06-20 20:54:35 [ERROR] Undefined variable $count in C:\wampp\www\Loove4\app\controllers\Messages.php on line 206
+[20-Jun-2025 20:55:36 UTC] PHP Warning:  session_start() [<a href='0function.session-start0'>function.session-start0</a>]: open(c:/wampp/tmp\sess_kqc5t6uohvfqs4hrvl97fbr89s, O_RDWR) failed: Permission denied (13) in C:\wampp\www\Loove4\app\helpers\session_helper.php on line 19
+[20-Jun-2025 20:55:36 UTC] PHP Stack trace:
+[20-Jun-2025 20:55:36 UTC] PHP   1. {main}() C:\wampp\www\Loove4\public\index.php:0
+[20-Jun-2025 20:55:36 UTC] PHP   2. require_once() C:\wampp\www\Loove4\public\index.php:2
+[20-Jun-2025 20:55:37 UTC] PHP   3. require_once() C:\wampp\www\Loove4\app\bootstrap.php:7
+[20-Jun-2025 20:55:37 UTC] PHP   4. session_start() C:\wampp\www\Loove4\app\helpers\session_helper.php:19
+[20-Jun-2025 20:55:37 UTC] PHP Warning:  session_start() [<a href='0function.session-start0'>function.session-start0</a>]: Failed to read session data: files (path: c:/wampp/tmp) in C:\wampp\www\Loove4\app\helpers\session_helper.php on line 19
+[20-Jun-2025 20:55:37 UTC] PHP Stack trace:
+[20-Jun-2025 20:55:37 UTC] PHP   1. {main}() C:\wampp\www\Loove4\public\index.php:0
+[20-Jun-2025 20:55:37 UTC] PHP   2. require_once() C:\wampp\www\Loove4\public\index.php:2
+[20-Jun-2025 20:55:37 UTC] PHP   3. require_once() C:\wampp\www\Loove4\app\bootstrap.php:7
+[20-Jun-2025 20:55:37 UTC] PHP   4. session_start() C:\wampp\www\Loove4\app\helpers\session_helper.php:19
+2025-06-20 21:00:41 [ERROR] Creation of dynamic property Users::$db is deprecated in C:\wampp\www\Loove4\app\controllers\Users.php on line 284
+2025-06-20 21:00:43 [ERROR] Undefined variable $count in C:\wampp\www\Loove4\app\controllers\Messages.php on line 206

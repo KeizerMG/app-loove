@@ -1,0 +1,35 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+*~
+
+# Dossiers de logs
+/logs/
+*.log
+error.log
+
+# Fichiers de configuration sensibles (si vous en avez)
+# config/database.php
+# .env
+
+# Dossiers de cache
+/cache/
+/tmp/
+*.cache
+
+# Fichiers uploadés par les utilisateurs (optionnel)
+# /public/img/profiles/*
+# !/public/img/profiles/default.jpg
+
+# Fichiers IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Node modules (si vous utilisez npm)
+node_modules/
+
+# Vendor (si vous utilisez Composer)
+vendor/
